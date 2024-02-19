@@ -8,7 +8,7 @@ def instructions():
     statement_generator("The ultimate factor finder", "_")
 
     print("""Enter an integer (whole number) and I will tell you if it's a unity, 
-prime, or perfect square number\n""")
+prime, or perfect square number\nPress 'xxx' to quit\n""")
 
 
 # check whether input is an integer between 1 and 200
